@@ -19,10 +19,13 @@ html, body {
     width: 300px;
     &.mini {
         margin: 20px auto;
+        text-align: center;
         width: 100px;
         .site-title {
-            height: 17px;
-            margin-bottom: 5px;
+            background-image: url('nusmods-icon-gradient.png');
+            height: 64px;
+            width: 64px;
+            margin: 0 auto;
         }
         .site-subtitle {
             font-size: 16px;
@@ -126,6 +129,10 @@ html, body {
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    li {
+        display: inline-block;
+        margin-right: 5px;
+    }
 }
 
 .footer-col-wrapper {
@@ -195,7 +202,9 @@ html, body {
     list-style: none;
     $post-spacing: 50px;
     > li {
-        border-bottom: 1px solid $grey-color-light;
+        &:not(:last-child) {
+            border-bottom: 1px solid $grey-color-light;
+        }
         margin: $post-spacing auto;
         padding-bottom: $post-spacing;
     }
@@ -219,6 +228,11 @@ html, body {
 .post-author-thumbnail {
     height: 64px;
     width: 64px;
+}
+
+.post-author-thumbnail-large {
+    height: 96px;
+    width: 96px;
 }
 
 .post-header {

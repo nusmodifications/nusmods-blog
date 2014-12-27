@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   up with our latest updates on our blog. Subscribe using the RSS button!
 baseurl: "/nusmods-web" # the subpath of your site, e.g. /blog/
 url: "http://nusmods.com" # the base hostname & protocol for your site
+facebook_username: NUSMods
 twitter_username: nusmods
 github_username:  nusmodifications
 
