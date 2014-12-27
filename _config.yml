@@ -4,11 +4,14 @@ email: nusmods@googlegroups.com
 description: > # this means to ignore newlines until "baseurl:"
   Hey there! We hope you have enjoyed using NUSMods so far. Keep 
   up with our latest updates on our blog. Subscribe using the RSS button!
-baseurl: "/nusmods-blog" # the subpath of your site, e.g. /blog/
-url: "http://nusmods.com" # the base hostname & protocol for your site
+url: http://blog.nusmods.com # the base hostname & protocol for your site
 facebook_username: NUSMods
 twitter_username: nusmods
 github_username:  nusmodifications
 
 # Build settings
 markdown: kramdown
+highlighter:    pygments
+permalink:      pretty
+paginate:       5
+encoding:       UTF-8
