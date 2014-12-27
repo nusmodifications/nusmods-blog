@@ -2,7 +2,6 @@
 layout: post
 title:  "Blog Launch"
 date:   2014-11-11 22:14:26
-categories: jekyll update
 author: Yang Shun
 author_thumbnail: yangshun
 ---

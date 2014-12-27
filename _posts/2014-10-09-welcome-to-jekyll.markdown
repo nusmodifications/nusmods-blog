@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-10-09 18:14:26
-categories: jekyll update
 author: Yen Ling
 author_thumbnail: ang.yenling
 ---
