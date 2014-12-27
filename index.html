@@ -4,16 +4,25 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <div class="row">
+          <div class="col-md-2 text-center">
+            <img class="post-author-thumbnail img-circle" src="http://graph.facebook.com/{{ post.author_thumbnail }}/picture?type=normal&height=64&width=64">
+            <div>
+              <span class="post-meta">by {{ post.author }}</span>
+            </div>
+          </div>
+          <div class="col-md-10">
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h2>
+              <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <div>{{ post.excerpt }}</div>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="btn">Continue reading →</a>
+          </div>
+        </div>
       </li>
     {% endfor %}
   </ul>

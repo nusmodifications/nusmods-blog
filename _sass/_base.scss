@@ -90,12 +90,8 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: $brand-color;
+    transition: all .3s;
     text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
     &:hover {
         color: $text-color;
         text-decoration: underline;
@@ -200,5 +196,23 @@ pre {
         path {
             fill: $grey-color;
         }
+    }
+}
+
+
+/**
+ * Icons
+ */
+
+.btn {
+    background-color: none;
+    border: 1px solid $brand-color;
+    border-radius: 40px;
+    color: $brand-color;
+    font-weight: 300;
+    &:hover {
+        background-color: $brand-color;
+        border-color: $brand-color;
+        color: #fff;
     }
 }
