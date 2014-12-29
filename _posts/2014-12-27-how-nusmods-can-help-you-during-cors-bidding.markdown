@@ -29,7 +29,7 @@ On a module page, detailed information about the module is shown, such as the pr
 Select the appropriate options under **Your Faculty**, **Account Type** and **New Student** to obtain the filtered bidding history for past semesters. Some points to note about which options to select:  
 
 - **Your Faculty**: Choose the faculty you belong to. DDP students may need to change this part when bidding for modules from the respective faculties. CEG Students are to select "Joint Multi-disciplinary Programmes" due to the unique nature of their course.
-- **Account Type**: **Programme Account** is used for Core modules, Higher Level Electives, Major Modules (Cross-Faculty included). **General Account** is used for UEM (Unrestricted Elective Modules), Minor modules, GEM and SS.
+- **Account Type**: <u>Programme Account</u> is used for Core modules, Higher Level Electives, Major Modules (Cross-Faculty included). <u>General Account</u> is used for UEM (Unrestricted Elective Modules), Minor modules, GEM and SS. Remember to change this part depending on the you module you are bidding for.
 - **New Student**: Whether you are a freshmen (year 1).
 
 ![Filter CORS Bidding History](/img/cors/cors-4.png)
