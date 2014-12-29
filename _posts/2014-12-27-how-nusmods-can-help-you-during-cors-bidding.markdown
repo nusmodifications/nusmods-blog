@@ -9,11 +9,11 @@ Hello everyone! It is the time for module bidding again! With this post, we hope
 
 ## Module Finder page 
 
-Simply click on **Modules** in the navigation menu on the left to access the Module Finder page. Under this page, all modules in CORS will be shown. To facilitate the search for certain modules, you can make use of the “Search Options” by applying filters (e.g. Semesters, Types, Faculty/Department, etc.). 
+Simply click on **Modules** in the navigation menu on the left to access the Module Finder page. Under this page, all modules in CORS will be shown. To narrow down the list of modules to those that you are interested in, you can make use of the "Search Options" section and applying search filters (e.g. Semesters, Types, Faculty/Department, etc.). 
 
 ![Click on "Modules"](/img/cors/cors-1.png)
 
-For instance, to obtain a list of GEM modules offered in Semester 2, check the boxes for **Semester 2** under *Semesters* and **GEM** under *Types*. A filtered list of GEM modules offered in Semester 2 will then be presented on the right of the page. This makes module discovery really easy and convenient!
+For instance, to obtain a list of GEM modules offered in Semester 2, check the checkboxes for **Semester 2** under *Semesters* and **GEM** under *Types*. A filtered list of GEM modules offered in Semester 2 will then be presented on the right of the page. This makes module discovery really easy and convenient!
 
 ![Filter modules](/img/cors/cors-2.png)
 
