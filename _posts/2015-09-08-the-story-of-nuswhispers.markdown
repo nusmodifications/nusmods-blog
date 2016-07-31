@@ -2,7 +2,7 @@
 layout: post
 title:  "The Story of NUSWhispers"
 date:   2015-09-08 10:01:26
-author: Yang Shun
+author: Tay Yang Shun
 author_thumbnail: 558978353
 ---
 

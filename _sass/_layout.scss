@@ -261,6 +261,10 @@ a.post-title {
 .post-content {
     margin-bottom: $spacing-unit;
 
+    h2, h3, h4, h5, h6 {
+        margin-top: $spacing-unit * 2;
+    }
+
     h2 {
         font-size: 32px;
 

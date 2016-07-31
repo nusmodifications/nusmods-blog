@@ -2,9 +2,10 @@
 layout: post
 title:  "How NUSMods Can Help You During CORS Bidding"
 date:   2014-12-30 02:14:26
-author: Yen Ling
+author: Ang Yen Ling
 author_thumbnail: 1409954122
 ---
+
 Hello everyone! It is the time for module bidding again! With this post, we hope to let you learn more about the features on [NUSMods](http://nusmods.com) that can help you during CORS bidding.
 
 ## Module Finder page
@@ -45,5 +46,3 @@ To make more informed decision about whether to take a module, you can take a lo
 Do contribute some reviews and participate in our module review contest! More information can be found [here](https://www.facebook.com/NUSMods/photos/a.107221136091076.15198.103575576455632/595083700638148/?type=1&theater).
 
 Happy bidding! (:
-
-
