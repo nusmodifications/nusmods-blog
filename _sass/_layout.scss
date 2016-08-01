@@ -46,7 +46,7 @@ html, body {
 .site-subtitle {
     color: $grey-color;
     font-size: 32px;
-    font-weight: 300;
+    font-weight: $font-weight-normal;
 }
 
 .site-nav {
@@ -241,7 +241,7 @@ html, body {
 
 .post-title {
     font-size: 42px;
-    font-weight: 700;
+    font-weight: $font-weight-bold;
     letter-spacing: -1px;
     line-height: 1;
     @include media-query($on-laptop) {
