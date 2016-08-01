@@ -6,13 +6,21 @@ author: Nicholette Li
 author_thumbnail: 610496971
 ---
 
-Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls from NUSWhispers [[#22833](https://www.nuswhispers.com/confession/22833), [#22905](https://www.nuswhispers.com/confession/22905), [#22964](https://www.nuswhispers.com/confession/22964), [#23086](https://www.nuswhispers.com/confession/23086), [#23153](https://www.nuswhispers.com/confession/23153)] have emerged to share their tips and experiences with incoming freshmen who missed their opportunity to seek advice from their seniors. The admins from NUSWhispers have decided to collate them in a single post for easier reading.
+Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls on NUSWhispers [[#22833](https://www.nuswhispers.com/confession/22833), [#22905](https://www.nuswhispers.com/confession/22905), [#22964](https://www.nuswhispers.com/confession/22964), [#23086](https://www.nuswhispers.com/confession/23086), [#23153](https://www.nuswhispers.com/confession/23153)] have emerged to share their tips and experiences with incoming freshmen who missed their opportunity to seek advice from their seniors. The admins of NUSWhispers have decided to collate them into a single post for easier reading, along with some nuggets of wisdom from their many years of experience in school.
 
-## CORS / Module Bidding / Timetable planning
+## CORS / Module Bidding / Timetable Planning
+
+- Use [NUSMods](https://nusmods.com/) to plan your semester timetable. It's your lifesaver! [NUSMods]
+
+- Learn how NUSMods can help you become a smarter bidder from [this article](/how-nusmods-can-help-you-during-cors-bidding). [NUSMods]
+
+- Utilize NUSMods to achieve higher productivity! Read about it [here](/5-nusmods-features-you-might-not-know-about). [NUSMods]
+
+- NUSMods has many module reviews of Level 1000 and 2000 modules. Do check them out to get a better idea of what the module is about. [NUSMods]
 
 - When you're bidding, try to hold your horses till closed bidding. Or else, you're most likely gonna see that minimum bid rise and rise along with your blood pressure. [[NUSWhispers #22964](https://www.nuswhispers.com/confession/22964)]
 
-- Feel free to arrange classes conducted in different parts of the campus next to each other. Lecturers usually release the class 35mins earlier for you guys to travel to the next venue--unless you're damn suay, and the lecturer goes on and on. For people having to travel to UTown for classes from other faculties, I'll say 35mins will still be rather tight for you (overcrowded shuttle buses) but not impossible. Try to put lectures after tutorials, rather be slightly late for lectures than tutorials! [[NUSWhispers #22964](https://www.nuswhispers.com/confession/22964)]
+- Feel free to arrange classes conducted in different parts of the campus next to each other. Lecturers usually release the class 35 mins earlier for you guys to travel to the next venue - unless you're damn suay, and the lecturer goes on and on. For people having to travel to Utown for classes from other faculties, I'll say 35mins will still be rather tight for you (overcrowded shuttle buses) but not impossible. Try to put lectures after tutorials, rather be slightly late for lectures than tutorials! [[NUSWhispers #22964](https://www.nuswhispers.com/confession/22964)]
 
 - Plan your lectures such that you don’t travel to science faculty then Arts faculty then back again... You won't like taking shuttle bus really... [Ten Wei Peng]
 
@@ -22,79 +30,78 @@ Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls
 
 - Double-counting, triple-counting of modules: check what modules you may be reading that can satisfy multiple requirements so that you have more flexibility over what you may want to read. [Donovan Cheah]
 
-- If a module seems too pricey for you, try bidding for it in sem 2, chances are it's not as oversubscribed. [Hazel Cxe]
+- If a module seems too pricey for you, try bidding for it in Sem 2, chances are it's not as oversubscribed. [Hazel Cxe]
+
+- For those thinking of changing courses, do not hesitate and do it early. Having good grades and recommendation from a Prof would help in your appeal. There is a cutoff deadline for switching courses and it's around recess week. [Tay Yang Shun]
 
 
-## Study tips
+## Study Tips
+
+- Know who the Dean's Listers are and make friends with them. They can help you in your assignments and projects. Look up Dean's Listers using [NUSMods Hall of Fame](http://awards.nusmods.com/). [NUSMods]
 
 - [Nicholette: I think this NUSWhispers post is really well-written so I’m going to re-post it in its entirety. Thank you OP of post [#22905](https://www.nuswhispers.com/confession/22905)!]
 
-> Hi Freshies of AY2016/17,
->
-> Here's a few handy tips for surviving in NUS:  
-2. <http://libportal.nus.edu.sg/frontend/index> - For textbooks/past year papers/ Research papers (Very important!!)  
-3. <https://app.box.com/files> - A sneak peek at most of the modules available with complete lecture notes/tutorials/etc  
-4. <http://www.nus.edu.sg/cors/> - Bidding has already started !  
-5. Plan your modules using this nifty website developed by our very own students : <https://nusmods.com/timetable/2016-2017/sem1>  
-6. General rule of thumb across all schools and faculties in NUS is to never plagiarise. Always send in your final report through a plagiarism checker first before submitting. NUS takes plagiarism very seriously (I know because I was nearly expelled for one of the assignments during Y1S1). 
-By the way, intentional or unintentional lifting of sentences of paragraphs constitutes an act of plagiarism.  
-7. Plan your modules well. Those who fail to plan, plan to fail... has never been truer. At least for me lol.  
-8. If you are feeling depressed, seek help. There are great counselling sessions (and medications) at the University Health Centre (UHC), the place where you did your body check-up prior to matriculating. Talk to friends, join a CCA ( if you don't like it, quit. Don't force yourself into liking something.. it is quite toxic.)
-Depression is not a weakness of the mind in much the same way as diabetes is a weakness of the pancreas. They both need treatment immediately to help you to survive.
-To live however, is an entirely different matter ha ha... ok I digress.  
-9. Sometimes, the friends you make in school lurk unassumingly in lecture halls, CCAs, gym, random smiles at the bus-stop, common modules taken, friend intro etc etc. I made a very good friend for one of the modules taken during Y1S1. While he was an introvert (or so i thought), I made small talk with him and before I knew it, we became fast friends.
-The number of good friends I've made in NUS can be counted on one hand. But they have provided me with valuable information, laughter, HTHT sessions and whatnot. These friendships were all forged in the above mentioned places and sadly not in camps ha ha. In life, you only need a few good friends that have your back when you need it. That and your Significant Other HA HA.  
-1. I believe I triggered the OCD in some of you when you noticed bullet point one was missing at the beginning of this post.
-That is good. Attention to detail is very important. Ok i digress again.
->
->Anyway you can skip the previous points mentioned because this point is the most important.
-And that is to enjoy what you are learning in school. If you don't like your major, change it don't drag. If you find some modules you've taken to be boring, make it interesting (or drop it before week 5?). Don't dwell on the past (failures? bad grades?) or worry too much about the future. Enjoy learning in the present. It is a gift. Time lost which cannot be recovered.
-Anyway this post is freaking long so imma just peace out.. gotta live my life now :D
->
-> Cheers,
->
-> Your senior
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=1577825682475577";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="text-center">
+<div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=1107118119358648&amp;id=695707917166339" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/nuswhispers/posts/1107118119358648" class="fb-xfbml-parse-ignore"><p>
+Hi Freshies of AY2016/17,
 
+Here&#039;s a few handy tips for surviving in NUS:
 
-- Get the Proxy Bookmarklet installed on your laptops/desktops. The instructions for installation on both Windows/Mac devices can be found here: <http://libguides.nus.edu.sg/proxybookmarklet/installondesktop>. Once installed, if you ever come across a journal article in an academic journal that you wish to access, just go to your bookmarks and click on the proxy bookmarklet to gain free access to the article by signing in with your NUSNET ID. These articles help to complement your learning, and also help one with writing good essays/assignments. [[NUSWhispers #22833](https://www.nuswhispers.com/confession/22833)]
+2. http://libportal.nus.edu.sg/frontend/index...</p>Posted by <a href="https://www.facebook.com/nuswhispers/">NUSWhispers</a> on&nbsp;<a href="https://www.facebook.com/nuswhispers/posts/1107118119358648">Saturday, July 30, 2016</a></blockquote></div>
+</div>
 
-- Get EndNote! This is a referencing software that helps you to manage and format your citations when you are writing your assignments and essays. They have a ton of reference styles uploaded within their database and you’ll never need to type out your references manually ever again. Without EndNote, I would have never finished my thesis. Instructions for installations are found here: <http://libguides.nus.edu.sg/endnote/installendnote >[[NUSWhispers #22833](https://www.nuswhispers.com/confession/22833)]
+<br>
+
+- Get the Proxy Bookmarklet installed on your laptops/desktops. The instructions for installation on both Windows / Mac devices can be found [here](http://libguides.nus.edu.sg/proxybookmarklet/installondesktop). Once installed, if you ever come across a journal article in an academic journal that you wish to access, just go to your bookmarks and click on the proxy bookmarklet to gain free access to the article by signing in with your NUSNET ID. These articles help to complement your learning, and also help one with writing good essays/assignments. [[NUSWhispers #22833](https://www.nuswhispers.com/confession/22833)]
+
+- Get EndNote! This is a referencing software that helps you to manage and format your citations when you are writing your assignments and essays. They have a ton of reference styles uploaded within their database and you’ll never need to type out your references manually ever again. Without EndNote, I would have never finished my thesis. Instructions for installations are found [here](http://libguides.nus.edu.sg/endnote/installendnote). [[NUSWhispers #22833](https://www.nuswhispers.com/confession/22833)]
 
 - If you don't wish to splash out money on a new textbook, search the used textbook forum in IVLE or just use the RBR copy. [Han Ming Guang]
 
-- Here is how you get access of textbooks legally without spending extra money:  
-1. Go to NUS library website (google "NUS library")
-2. Type in the name of the book and Authors on the search bar
-3. If you found the book and it the word "available online", then congratulations, free book! If not, then too bad. But it should work for most textbooks though.  
-[Goh Koon Tong]
+- Here is how you get access of textbooks legally without spending extra money:
+1. Go to NUS library website (google "NUS library").
+2. Type in the name of the book and Authors on the search bar.
+3. If you found the book and it the word "available online", then congratulations, free book! If not, then too bad. But it should work for most textbooks though. [Goh Koon Tong]
 
-<!--comment to create newline after bullet point: http://meta.stackexchange.com/questions/3327/code-block-is-not-properly-formatted-when-placed-immediately-after-a-list-item -->
 - Reading lists are usually up before CORS closes, so if you're certain to get a mod, you can go grab the required text before everyone else. [Hazel Cxe]
 
 - For poly students your first semester will be so theoretical that you will get a culture shock. You'll need to work doubly hard to catch up with the jc peeps in this aspect. You'll catch up after the first two semesters, don't give up! [Ten Zhi-Yang]
 
-- You can get penalized a grade just for wrong fonts/ line spacing used in reports so please read instructions 10 times before you submit.. [Ten Wei Peng]
+- You can get penalized a grade just for wrong fonts / line spacing used in reports so please read instructions 10 times before you submit.. [Ten Wei Peng]
 
 - Do your readings diligently, plan your assignments out weeks in advance to avoid the stress [Ler Yi Poh]
 
 - The greatest learning and lessons in university is found outside of the syllabus and curriculum. Get involved in activities and events, internships and networking, competitions and conferences. You'll learn far more than you would in classes. [Lauises Puah]
 
-- Don't be afraid to study at seminar/tutorial room. Just leave if a class is starting. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- Don't be afraid to study in a seminar / tutorial room. Just leave if a class is starting. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]. (NUSMods: Use the [Venue Tool](https://nusmods.com/venues) to look up a venue's availability!)
 
-- This is uni, not jc/poly. You can do your best and get a B or C. Just suck it up and start over next sem [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- This is uni, not jc / poly. You can do your best and get a B or C. Just suck it up and start over next sem [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
 - You can study at CLB or the Chinese library (it links!) [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
-- When you have burn out, just drink teh ping or go exercise. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- When you have burnt out, just drink teh ping or go exercise. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
+- SoC students can refer to Lynnette Ng's [awesome list of resources](https://github.com/quarbby/links-and-resources). [Tay Yang Shun]
+
+- Gradeless first year may seem like a lot of fun and chance to slack, but if you don't build up good fundamentals you'll have a hard time catching up in the following semesters, especially in SoC. Don't take gradeless for granted. [Tay Yang Shun]
 
 ## Travelling around the campus
 
-- FOS students, you can get to the Science campus by walking through/along NUH (5mins walk). Please don't go and squeeze together with everybody else who legitimately needs the shuttle bus. [[NUSWhispers #22964](https://www.nuswhispers.com/confession/22964)]
+- FOS students, you can get to the Science campus by walking through / along NUH (5mins walk). Please don't go and squeeze together with everybody else who legitimately needs the shuttle bus. [[NUSWhispers #22964](https://www.nuswhispers.com/confession/22964)]
 
-- At Computing/Biz bus stop, see which direction bus is going (PGP, KR mrt or UTown) [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- Here's how you get from Biz to Science in under 10 minutes via a secret path. Check out [this YouTube video](https://www.youtube.com/watch?v=juKX1omYwWk).
 
-- For SoC/FASS students, you may want to consider walking to UTown during peak hours to avoid being late as bus D1 will be really crowded. The walk should take about 15-20 minutes. [Nicholette]
+- At Computing / Biz bus stop, see which direction bus is going (PGP, KR MRT or Utown) [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+
+- For SoC / FASS students, you may want to consider walking to Utown during peak hours to avoid being late as bus D1 will be really crowded. The walk should take about 15-20 minutes. [Nicholette]
 
 - Take the live bus timings with a pinch of salt, sometimes they suspiciously look like they are hardcoded (especially at night) [Nicholette]
 
@@ -114,19 +121,18 @@ Anyway this post is freaking long so imma just peace out.. gotta live my life no
 
 - Engine canteen has the best ayam penyet and western [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
-- UTown Hwang's restaurant has the best Korean food [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- Utown Hwang's restaurant has the best Korean food [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
-- Sarpino have 50% on eatigo (eatigo: best app on earth) [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- Sarpino has 50% on eatigo ([eatigo](http://eatigo.com/): best app on earth) [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
-- McDonalds in NUS is cheaper than outside! :o [Nicholette]
+- McDonalds in NUS is cheaper than outside! :O [Nicholette]
 
 
+## Cool Stuff!
 
-## Cool stuff!
+- NUS Academic Calendar <http://www.nus.edu.sg/registrar/info/calendar/AY2016-2017.pdf>
 
-- NUS Academic Calendar -<http://www.nus.edu.sg/registrar/info/calendar/AY2016-2017.pdf>
-
-- NUS Freshmen can visit <http://nush.sg> for Student Life Hacks!
+- NUS Freshmen can visit [NUS Hacks](http://nush.sg) for Student Life Hacks!
 
 - If you’re a FASS freshman, someone recommended this blog for more insightful FASS freshman tips: <https://weitheblur.wordpress.com/2014/07/17/freshie-in-fass-survival-guide-life-hacks/>
 
