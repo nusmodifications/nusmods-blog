@@ -24,7 +24,7 @@ Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls
 
 - Plan your lectures such that you don’t travel to science faculty then Arts faculty then back again... You won't like taking shuttle bus really... [Ten Wei Peng]
 
-- For bidding, they will refund you the points if your bid is higher than the lowest successful bid [Angelina Wee - Lauises Puah]
+- For bidding, they will refund you the points if your bid is higher than the lowest successful bid. [Angelina Wee - Lauises Puah]
 
 - Plan modules from highest to lowest level. Because higher-level modules can only be read by unlocking lower levels, plan your modules from highest to lowest level. Then check the schedules. [Donovan Cheah]
 
@@ -38,6 +38,10 @@ Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls
 ## Study Tips
 
 - Know who the Dean's Listers are and make friends with them. They can help you in your assignments and projects. Look up Dean's Listers using [NUSMods Hall of Fame](http://awards.nusmods.com/). [NUSMods]
+
+- Download NUS Exam Papers easily via NUSMods' [Exam Paper Downloader Tool](http://exams.nusmods.com/). [NUSMods]
+
+- Buy your senior's cheatsheets and study notes on [Paperbaton](https://paperbaton.com/). [NUSMods]
 
 - [Nicholette: I think this NUSWhispers post is really well-written so I’m going to re-post it in its entirety. Thank you OP of post [#22905](https://www.nuswhispers.com/confession/22905)!]
 
@@ -73,19 +77,19 @@ Here&#039;s a few handy tips for surviving in NUS:
 
 - Reading lists are usually up before CORS closes, so if you're certain to get a mod, you can go grab the required text before everyone else. [Hazel Cxe]
 
-- For poly students your first semester will be so theoretical that you will get a culture shock. You'll need to work doubly hard to catch up with the jc peeps in this aspect. You'll catch up after the first two semesters, don't give up! [Ten Zhi-Yang]
+- For Poly students your first semester will be so theoretical that you will get a culture shock. You'll need to work doubly hard to catch up with the JC peeps in this aspect. You'll catch up after the first two semesters, don't give up! [Ten Zhi-Yang]
 
 - You can get penalized a grade just for wrong fonts / line spacing used in reports so please read instructions 10 times before you submit.. [Ten Wei Peng]
 
-- Do your readings diligently, plan your assignments out weeks in advance to avoid the stress [Ler Yi Poh]
+- Do your readings diligently, plan your assignments out weeks in advance to avoid the stress. [Ler Yi Poh]
 
 - The greatest learning and lessons in university is found outside of the syllabus and curriculum. Get involved in activities and events, internships and networking, competitions and conferences. You'll learn far more than you would in classes. [Lauises Puah]
 
-- Don't be afraid to study in a seminar / tutorial room. Just leave if a class is starting. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]. (NUSMods: Use the [Venue Tool](https://nusmods.com/venues) to look up a venue's availability!)
+- Don't be afraid to study in a seminar / tutorial room. Just leave if a class is starting. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]. (NUSMods ProTip: Use the [Venue Tool](https://nusmods.com/venues) to look up a venue's availability!)
 
-- This is uni, not jc / poly. You can do your best and get a B or C. Just suck it up and start over next sem [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- This is Uni, not JC / Poly. You can do your best and still get a B or C. Just suck it up and start over next sem [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
-- You can study at CLB or the Chinese library (it links!) [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- You can study at CLB or the Chinese library (it links)! [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
 - When you have burnt out, just drink teh ping or go exercise. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
@@ -99,18 +103,18 @@ Here&#039;s a few handy tips for surviving in NUS:
 
 - Here's how you get from Biz to Science in under 10 minutes via a secret path. Check out [this YouTube video](https://www.youtube.com/watch?v=juKX1omYwWk).
 
-- At Computing / Biz bus stop, see which direction bus is going (PGP, KR MRT or Utown) [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- At Computing / Biz bus stop, see which direction bus is going (PGP, KR MRT or Utown). [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
 - For SoC / FASS students, you may want to consider walking to Utown during peak hours to avoid being late as bus D1 will be really crowded. The walk should take about 15-20 minutes. [Nicholette]
 
-- Take the live bus timings with a pinch of salt, sometimes they suspiciously look like they are hardcoded (especially at night) [Nicholette]
+- Take the live bus timings with a pinch of salt, sometimes they suspiciously look like they are hardcoded (especially at night). [Nicholette]
 
-- Another useful tips for new undergraduates when it is raining: Look for yellow ceiling! Yellow ceiling means that it is connected to other buildings via shelter. (May not work for new buildings) [Goh Koon Tong]
+- Another useful tips for new undergraduates when it is raining: Look for yellow ceiling! Yellow ceiling means that it is connected to other buildings via shelter (may not work for new buildings). [Goh Koon Tong]
 
 
 ## Library
 
-- Send printing jobs from your laptop to the library's network printer! Skip the queue for computers and go straight to the Print Release Station <http://libfaq.nus.edu.sg/faq/71273> [[NUSWhispers #22964](https://www.nuswhispers.com/confession/22964)]
+- Send printing jobs from your laptop to the library's network printer! Skip the queue for computers and go straight to the Print Release Station <http://libfaq.nus.edu.sg/faq/71273>. [[NUSWhispers #22964](https://www.nuswhispers.com/confession/22964)]
 
 - Loan period for library books are 2 weeks, and the fines are 50 cents per day for overdue books. You can extend loan period by 2 weeks, thrice. But the 2 weeks start from the day you renew the loan, not from the end of the original 2 weeks. [Ho Chun Leong]
 
@@ -119,11 +123,11 @@ Here&#039;s a few handy tips for surviving in NUS:
 
 - Arts canteen jap food always give a lot of food for bento, don't order the bowl. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
-- Engine canteen has the best ayam penyet and western [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- Engine canteen has the best ayam penyet and western. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
-- Utown Hwang's restaurant has the best Korean food [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- Utown Hwang's restaurant has the best Korean food. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
-- Sarpino has 50% on eatigo ([eatigo](http://eatigo.com/): best app on earth) [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
+- Sarpino has 50% on eatigo ([eatigo](http://eatigo.com/): best app on earth). [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
 - McDonalds in NUS is cheaper than outside! :O [Nicholette]
 
