@@ -6,11 +6,11 @@ author: Tay Yang Shun
 author_thumbnail: 558978353
 ---
 
-NUSMods has been an incredibly useful platform for NUS students, providing a user-friendly interface for planning their timetables and searching through the available modules. However, it does more than just that! Here are some of the lesser known features in NUSMods that can improve your productivity and make you even more productive!
+NUSMods has been an incredibly useful platform for NUS students, providing a user-friendly interface for planning their timetables and searching through the available modules. However, it does more than just that! Here are some of the lesser known features in NUSMods that can make you even more productive!
 
 ## Lesson Theme Colors and Dark Mode
 
-One of the most popular features of NUSMods is the colorful timetable lesson slots, as it gives colour to one's school life (literally). Do you know that there are a grand total of 32 different color themes for these lesson slots? They can be accessed via the [**Preferences**](https://nusmods.com/preferences) page or simply pressing the <kbd>←</kbd> and <kbd>→</kbd> arrow keys to switch between themes. Our personal favourites are the *Mocha*, *Monokai* and *Ocean* themes. There is even an [NUSWhispers](https://nuswhispers.com) theme if you can't get enough of it (;
+One of the most popular features of NUSMods is the colorful timetable lesson slots, as it gives colour to one's school life (literally). Do you know that there are a grand total of 32 different color themes for these lesson slots? They can be accessed via the [**Preferences**](https://nusmods.com/preferences) page or simply pressing the <kbd>←</kbd> and <kbd>→</kbd> arrow keys to switch between themes. My personal favourites are the *Mocha*, *Monokai* and *Ocean* themes. There is even an [NUSWhispers](https://nuswhispers.com) theme if you can't get enough of it (;
 
 Additionally, **Dark mode** is also available and can be activated by pressing <kbd>X</kbd>. We find that dark mode is easier on the eyes and can be a little more battery-saving. Check it out!
 
@@ -18,7 +18,7 @@ Additionally, **Dark mode** is also available and can be activated by pressing <
 
 ## CORS Bidding History
 
-When bidding for modules, it may be a good idea to know how many points are required historically in order to obtain that module. One way to do this is to refer to the [CORS Archives](http://www.cors.nus.edu.sg/archive.html) page where the bidding points required for each module per round per semester are displayed. Trust us, it's *really* hard to use the data in that format. It's more common to compare the winning bid points for a particular module across rounds and semesters instead. And that's exactly what we built. Simply go to any module page and scroll to the **CORS Bidding History** section. Read up more about how to utilize the CORS Bidding History [here](/how-nusmods-can-help-you-during-cors-bidding).
+When bidding for modules, it may be a good idea to know how many points are required historically in order to obtain that module. One way to do this is to refer to the [CORS Archives](http://www.cors.nus.edu.sg/archive.html) page where CORS displays bidding points for all modules each round in a semester. But we find it easier to see the history for one module at a time; it's more common to compare the winning bid points for a particular module across rounds and semesters instead. And that's exactly what we built. Simply go to any module page and scroll to the **CORS Bidding History** section. Read up more about how to utilize the CORS Bidding History [here](/how-nusmods-can-help-you-during-cors-bidding).
 
 ![CORS Bidding History](/img/features/cors-bidding-history.png)
 
