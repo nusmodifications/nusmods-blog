@@ -6,7 +6,7 @@ author: Nicholette Li
 author_thumbnail: 610496971
 ---
 
-Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls from NUSWhispers have emerged to share their tips and experiences with incoming freshmen who missed their opportunity to seek advice from their seniors. The admins from NUSWhispers have decided to collate them in a single post for easier reading.
+Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls from NUSWhispers [[#22833](https://www.nuswhispers.com/confession/22833), [#22905](https://www.nuswhispers.com/confession/22905), [#22964](https://www.nuswhispers.com/confession/22964), [#23086](https://www.nuswhispers.com/confession/23086), [#23153](https://www.nuswhispers.com/confession/23153)] have emerged to share their tips and experiences with incoming freshmen who missed their opportunity to seek advice from their seniors. The admins from NUSWhispers have decided to collate them in a single post for easier reading.
 
 ## CORS / Module Bidding / Timetable planning
 
@@ -68,7 +68,7 @@ Anyway this post is freaking long so imma just peace out.. gotta live my life no
 3. If you found the book and it the word "available online", then congratulations, free book! If not, then too bad. But it should work for most textbooks though.  
 [Goh Koon Tong]
 
-<!-- -->
+<!--comment to create newline after bullet point: http://meta.stackexchange.com/questions/3327/code-block-is-not-properly-formatted-when-placed-immediately-after-a-list-item -->
 - Reading lists are usually up before CORS closes, so if you're certain to get a mod, you can go grab the required text before everyone else. [Hazel Cxe]
 
 - For poly students your first semester will be so theoretical that you will get a culture shock. You'll need to work doubly hard to catch up with the jc peeps in this aspect. You'll catch up after the first two semesters, don't give up! [Ten Zhi-Yang]
@@ -111,8 +111,6 @@ Anyway this post is freaking long so imma just peace out.. gotta live my life no
 ## Food
 
 - Arts canteen jap food always give a lot of food for bento, don't order the bowl. [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
-
-- Biz canteen is the worst,period! [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
 - Engine canteen has the best ayam penyet and western [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
