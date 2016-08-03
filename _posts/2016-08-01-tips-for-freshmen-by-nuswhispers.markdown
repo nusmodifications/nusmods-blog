@@ -4,6 +4,8 @@ title:  "Tips For Freshmen By NUSWhispers"
 date:   2016-07-31 17:20:00
 author: Nicholette Li
 author_thumbnail: 610496971
+excerpt: >
+  Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls on NUSWhispers have emerged to share their tips and experiences with incoming freshmen who missed their opportunity to seek advice from their seniors. The admins of NUSWhispers have decided to collate them into a single post for easier reading, along with some nuggets of wisdom from their many years of experience in school.
 ---
 
 Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls on NUSWhispers [[#22833](https://www.nuswhispers.com/confession/22833), [#22905](https://www.nuswhispers.com/confession/22905), [#22964](https://www.nuswhispers.com/confession/22964), [#23086](https://www.nuswhispers.com/confession/23086), [#23153](https://www.nuswhispers.com/confession/23153)] have emerged to share their tips and experiences with incoming freshmen who missed their opportunity to seek advice from their seniors. The admins of NUSWhispers have decided to collate them into a single post for easier reading, along with some nuggets of wisdom from their many years of experience in school.

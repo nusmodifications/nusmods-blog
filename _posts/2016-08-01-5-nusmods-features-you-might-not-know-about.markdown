@@ -4,6 +4,8 @@ title:  "5 NUSMods Features You Might Not Know About"
 date:   2016-07-31 14:59:26
 author: Tay Yang Shun
 author_thumbnail: 558978353
+excerpt: >
+  NUSMods has been an incredibly useful platform for NUS students, providing a user-friendly interface for planning their timetables and searching through the available modules. However, it does more than just that! Here are some of the lesser known features in NUSMods that can make you even more productive!
 ---
 
 NUSMods has been an incredibly useful platform for NUS students, providing a user-friendly interface for planning their timetables and searching through the available modules. However, it does more than just that! Here are some of the lesser known features in NUSMods that can make you even more productive!
