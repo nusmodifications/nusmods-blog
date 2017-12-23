@@ -211,8 +211,9 @@ html, body {
 }
 
 .post-meta {
-    font-size: $small-font-size;
     color: $grey-color;
+    font-size: $small-font-size;
+    line-height: 1;
 }
 
 .post-link {
@@ -225,6 +226,10 @@ html, body {
 /**
  * Posts
  */
+.post-excerpt {
+    margin-bottom: 10px;
+}
+
 .post-author-thumbnail {
     height: 64px;
     width: 64px;

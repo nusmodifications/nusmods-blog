@@ -9,7 +9,7 @@ layout: default
           <div class="col-md-2 text-center">
             <img class="post-author-thumbnail img-circle" src="http://graph.facebook.com/{{ post.author_thumbnail }}/picture?height=256&width=256">
             <div>
-              <span class="post-meta">by {{ post.author }}</span>
+              <span class="post-meta">{{ post.author }}</span>
             </div>
           </div>
           <div class="col-md-10">
@@ -17,7 +17,7 @@ layout: default
             <h2>
               <a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
             </h2>
-            <div>{{ post.excerpt }}</div>
+            <div class="post-excerpt">{{ post.excerpt }}</div>
             <a href="{{ post.url | prepend: site.baseurl }}" class="btn">Continue reading →</a>
           </div>
         </div>
