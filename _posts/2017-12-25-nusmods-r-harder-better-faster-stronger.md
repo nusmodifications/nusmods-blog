@@ -21,6 +21,7 @@ The new version brings about some much needed enhancements such as multi-platfor
   <img src="/img/nusmods-r/timetable-iphone.png" alt="NUSMods iPhone Screenshot" style="width: 50%">
 </div>
 
+- **NO MORE DRAG AND DROP. It's now tap and select**
 - Mobile friendly timetable (check it out on your mobile phone)
 - Supports both horizontal and vertical orientation
 - Customizable module colors
