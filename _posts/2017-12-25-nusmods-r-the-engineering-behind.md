@@ -3,6 +3,7 @@ layout: post
 title:  NUSMods R - The Engineering Behind
 date:   2017-12-25 00:00:00
 author: Yangshun Tay
+author_github: yangshun
 author_thumbnail: 558978353
 excerpt: >
   Today we are very excited to be releasing a new version of NUSMods for everyone to use. This release is NUSMods' third version since the project was originally started in 2012 by Beng, founder and creator of NUSMods. NUSMods R has been in development for over a year and will finally be available for use thanks to the hard work of a team of young and talented developers from School of Computing.
