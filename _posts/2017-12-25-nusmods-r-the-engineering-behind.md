@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  NUSMods R - The Engineering Behind
-date:   2017-12-23 00:00:00
+date:   2017-12-25 00:00:00
 author: Yangshun Tay
 author_thumbnail: 558978353
 excerpt: >
