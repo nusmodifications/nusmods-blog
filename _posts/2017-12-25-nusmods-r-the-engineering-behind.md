@@ -12,7 +12,7 @@ excerpt: >
 
 Over the period of a year from Jul 2016 to Jul 2017, NUSMods saw over 2.5 million sessions, over 250,000 users (including returning users) and over 9 million pageviews, with the peak periods being the start of the semesters. Freshmen often have difficulty understanding the module and bidding system but with NUSMods the process is made much smoother. Many seniors recommend the freshmen to use NUSMods for module planning purposes. Even exchange students use NUSMods and they often exclaim that they wished they had such a platform back in their own university. The immense popularity and usefulness of NUSMods and the impact that NUSMods has over the school population drives us to keep innovating and making NUSMods better. Another goal of NUSMods is to provide a platform to encourage students to experiment and create original community-engaging work via the [NUSMods API](https://github.com/nusmodifications/nusmods-api).
 
-Today we are very excited to be releasing a new version of NUSMods for everyone to use. This release is NUSMods' third version since the project was originally started in 2012 by [Beng](https://github.com/ahbeng), founder and creator of NUSMods. NUSMods R has been in development for over a year and will finally be available for use thanks to the hard work of a team of young and talented developers from School of Computing. NUSMods is a  student-initiated project driven by the needs of students and desire of individuals to solve common university life problems with technology. The NUSMods core team has put in a tremendous amount of time and effort over the past year during both semester period and holidays to make this possible. Many thanks to the people involved in the development of v3 - [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai), [E-Liang Tan](https://github.com/eliangtan), [Ng Zhi An](https://github.com/ngzhian), and [Yangshun Tay](https://github.com/yangshun).
+Today we are very excited to be releasing a new version of NUSMods for everyone to use. This release is NUSMods' third version since the project was originally started in 2012 by [Beng](https://github.com/ahbeng), founder and creator of NUSMods. NUSMods R has been in development for over a year and will finally be available for use thanks to the hard work of a team of young and talented developers from School of Computing. NUSMods is a  student-initiated project driven by the needs of students and desire of individuals to solve common university life problems with technology. The NUSMods core team has put in a tremendous amount of time and effort over the past year during both semester period and holidays to make this possible. Many thanks to the people involved in the development of NUSMods R - [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai), [E-Liang Tan](https://github.com/eliangtan), [Ng Zhi An](https://github.com/ngzhian), and [Yangshun Tay](https://github.com/yangshun).
 
 The new version brings about some much needed enhancements such as multi-platform compatibility, performance improvements, increased customizability, and solves many of the pain points of the previous version. We redesigned the user interface, rethought the user experience, rewrote the entire code base and removed a number of features that were not commonly used among students so that your usage experience will be greatly enhanced. Here are some of the highlights in the new release:
 
@@ -87,8 +87,8 @@ With these considerations, we evolved our engineering stack:
 <table class="table">
   <tr>
     <th></th>
-    <th>v2</th>
-    <th>v3</th>
+    <th>NUSMods 2.0</th>
+    <th>NUSMods R</th>
   </tr>
   <tr>
     <td>Bundler</td>
