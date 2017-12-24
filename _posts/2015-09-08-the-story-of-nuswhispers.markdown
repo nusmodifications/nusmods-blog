@@ -3,6 +3,7 @@ layout: post
 title:  "The Story of NUSWhispers"
 date:   2015-09-08 10:01:26
 author: Yangshun Tay
+author_github: yangshun
 author_thumbnail: 558978353
 excerpt: >
   The confessions wave took the whole Singapore by storm in 2012, and confessions pages were created for organizations on Facebook, so that people could share their darkest secrets and gossips in an anonymous fashion. In 2013, NUS Confessions was launched. It was an instant hit among students, reaching 30,000 likes over the span of a year. However, since the founders of NUS Confessions have graduated, the platform was left unmaintained. We saw the opportunity to build a better version of a confessions site for NUS, and build a platform that is tailored for anonymous sharing of opinions and stories. Thus, NUSWhispers was born.
