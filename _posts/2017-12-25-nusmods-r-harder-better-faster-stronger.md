@@ -81,6 +81,10 @@ We've already heard from many voices about NUSMods R while it was in beta, and h
 >
 > *- Yangshun Tay, Front End Engineer at Facebook*
 
+> **Best in class in a monopoly market 🌝**
+>
+> *- Karen Ang, Ex-Software Engineering Intern at Google*
+
 ## To Infinity and Beyond
 
 Over the period of a year from Jul 2016 to Jul 2017, NUSMods saw over 2.5 million sessions, over 250,000 users (including returning users) and over 9 million pageviews, with the peak periods being the start of the semesters. Freshmen often have difficulty understanding the module and bidding system but with NUSMods the process is made much smoother. Many seniors recommend the freshmen to use NUSMods for module planning purposes. Even exchange students use NUSMods and they often exclaim that they wished they had such a platform back in their own university. The immense popularity and usefulness of NUSMods and the impact that NUSMods has over the school population drives us to keep innovating and making NUSMods better. Another goal of NUSMods is to provide a platform to encourage students to experiment and create original community-engaging work via the [NUSMods API](https://github.com/nusmodifications/nusmods-api).

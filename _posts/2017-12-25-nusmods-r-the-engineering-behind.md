@@ -168,6 +168,10 @@ We've already heard from many voices about NUSMods R while it was in beta, and h
 >
 > *- Yangshun Tay, Front End Engineer at Facebook*
 
+> **Best in class in a monopoly market 🌝**
+>
+> *- Karen Ang, Ex-Software Engineering Intern at Google*
+
 ## To Infinity and Beyond
 
 NUSMods R marks a major milestone for us and is a huge improvement in terms of both product and engineering. This would not have been possible without the dedication of the NUSMods core team and hard work they have put in over the past year. Moving forward, NUSMods will be led by [a new generation](https://nusmods.com/team) of student developers from School of Computing - [Li Kai](https://github.com/li-kai), [Zhang Yi Jiang](https://github.com/zhangyijiang) and [E-Liang Tan](https://github.com/eliangtan). There is still a ton of work left to be done, such as further improving the performance and writing more tests. We also have the intentions to revamp the API using GraphQL so as to batch API requests on the client. Do reach out to them if you are interested in contributing to or collaborating on the project.
