@@ -26,7 +26,7 @@ One major change we made was to **kill Drag and Drop**. To change lessons, you w
 We have received feedback from students that they preferred a vertical orientation for the timetable because it was more similar to Google Calendar/iCal. We contemplated switching to a vertical orientation but feared upsetting those who preferred and were used to the horizontal version. To make everyone happy, we now allow you to toggle the timetable orientation! Implementing this was a technical challenge for us and we are pretty proud of the approach we took to solve it.
 
 <div class="text-center">
-  <img src="/img/nusmods-r/timetable-iphone.png" alt="NUSMods iPhone Screenshot]" style="width: 50%">
+  <img src="/img/nusmods-r/timetable-iphone.png" alt="NUSMods iPhone Screenshot" style="width: 50%">
 </div>
 
 Lastly, we now let you customize the colors of the lessons on the timetable. No longer do you need to refresh the page repeatedly just to get a colour combination that you like before exporting the timetable. You may also hide certain modules from the timetable if you wish.

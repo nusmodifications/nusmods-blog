@@ -20,7 +20,7 @@ The new version brings about some much needed enhancements such as multi-platfor
 ![NUSMods Desktop Screenshot](/img/nusmods-r/timetable-desktop.png)
 
 <div class="text-center">
-  <img src="/img/nusmods-r/timetable-iphone.png" alt="NUSMods iPhone Screenshot]" style="width: 50%">
+  <img src="/img/nusmods-r/timetable-iphone.png" alt="NUSMods iPhone Screenshot" style="width: 50%">
 </div>
 
 - Mobile friendly timetable (check it out on your mobile phone)
