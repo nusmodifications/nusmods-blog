@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  NUSMods R - The Engineering Behind
-date:   2017-12-25 00:00:00
+date:   2017-12-26 00:00:00
 author: Yangshun Tay
 author_github: yangshun
 author_thumbnail: 558978353
@@ -164,7 +164,7 @@ We've already heard from many voices about NUSMods R while it was in beta, and h
 >
 > *- Yeo Quan Yang, Security Engineer at Apple*
 
-> **What? A responsive timetable planner? Shut up and take my money!**
+> **Not all heroes wear capes**
 >
 > *- Yangshun Tay, Front End Engineer at Facebook*
 
@@ -172,8 +172,12 @@ We've already heard from many voices about NUSMods R while it was in beta, and h
 >
 > *- Karen Ang, Ex-Software Engineering Intern at Google*
 
+> **NUSMods helped me find a girlfriend**
+>
+> *- Soon Chun Mun, Software Engineer at Google*
+
 ## To Infinity and Beyond
 
-NUSMods R marks a major milestone for us and is a huge improvement in terms of both product and engineering. This would not have been possible without the dedication of the NUSMods core team and hard work they have put in over the past year. Moving forward, NUSMods will be led by [a new generation](https://nusmods.com/team) of student developers from School of Computing - [Li Kai](https://github.com/li-kai), [Zhang Yi Jiang](https://github.com/zhangyijiang) and [E-Liang Tan](https://github.com/taneliang). There is still a ton of work left to be done, such as further improving the performance and writing more tests. We also intend to revamp the API using GraphQL so as to batch API requests on the client. Do reach out to them if you are interested in contributing to or collaborating on the project.
+NUSMods R marks a major milestone for us and is a huge improvement in terms of both product and engineering. This would not have been possible without the dedication of the NUSMods core team and hard work they have put in over the past year. Moving forward, NUSMods will be led by [a new generation](https://nusmods.com/team) of student developers from School of Computing - [Li Kai](https://github.com/li-kai), [Zhang Yi Jiang](https://github.com/zhangyijiang) and [E-Liang Tan](https://github.com/taneliang). There is still a ton of work left to be done, such as further improving the performance and writing more tests. We also intend to revamp the API using GraphQL so as to batch API requests on the client. This journey is 1% finished. Do reach out to us if you are interested in contributing to or collaborating on the project.
 
 With this release, we hope that students of NUS enjoy using NUSMods more than ever and also hope to inspire budding developers with our engineering culture and practices!

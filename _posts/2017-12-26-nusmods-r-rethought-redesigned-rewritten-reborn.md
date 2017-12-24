@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  NUSMods R - Harder Better Faster Stronger
-date:   2017-12-25 00:00:00
+title:  NUSMods R - Rethought, Redesigned, Rewritten, Reborn
+date:   2017-12-26 00:00:00
 author: Yangshun Tay
 author_github: yangshun
 author_thumbnail: 558978353
@@ -51,10 +51,10 @@ The new version brings about some much needed enhancements such as multi-platfor
 
 ## Performance and Infrastructure
 
-- The timetable page loads almost instantly thanks to caching of both assets and data.
-- Aggressive caching of resources.
-- Reduced loading time and payload by half.
-- Time to interactive greatly improved.
+- The timetable page loads almost instantly thanks to caching of both assets and data
+- Aggressive caching of resources
+- Reduced loading time and payload by half
+- Time to interactive greatly improved
 
 *Many thanks to [Li Kai](https://github.com/li-kai) and [Yangshun Tay](https://github.com/yangshun) for their work on the performance and infrastructure aspects of NUSMods R.*
 
@@ -67,7 +67,7 @@ The new version brings about some much needed enhancements such as multi-platfor
 - Initial load time of **885ms**
 - Bundle size of **605 KB** (after Gzip)
 
-We've already heard from many voices about NUSMods R while it was in beta, and here’s what they have to say:
+We've already heard from many voices about NUSMods R while it was in beta, and here's what they have to say:
 
 > **Get your school life in order with NUSMods R**
 >
@@ -77,7 +77,7 @@ We've already heard from many voices about NUSMods R while it was in beta, and h
 >
 > *- Yeo Quan Yang, Security Engineer at Apple*
 
-> **What? A responsive timetable planner? Shut up and take my money!**
+> **Not all heroes wear capes**
 >
 > *- Yangshun Tay, Front End Engineer at Facebook*
 
@@ -85,11 +85,15 @@ We've already heard from many voices about NUSMods R while it was in beta, and h
 >
 > *- Karen Ang, Ex-Software Engineering Intern at Google*
 
+> **NUSMods helped me find a girlfriend**
+>
+> *- Soon Chun Mun, Software Engineer at Google*
+
 ## To Infinity and Beyond
 
 Over the period of a year from Jul 2016 to Jul 2017, NUSMods saw over 2.5 million sessions, over 250,000 users (including returning users) and over 9 million pageviews, peaking at the start of semesters. Freshmen often have difficulty understanding the module and bidding system but with NUSMods the process is made much smoother. Many seniors recommend freshmen to use NUSMods to plan their modules. Even exchange students use NUSMods and they often exclaim that they wished they had such a platform back in their own university. The immense popularity and usefulness of NUSMods and the impact that NUSMods has on the school population drives us to keep innovating and making NUSMods better. Another goal of NUSMods is to provide a platform to encourage students to experiment and create original community-engaging work via the [NUSMods API](https://github.com/nusmodifications/nusmods-api).
 
-[NUSMods R](https://nusmods.com) marks a major milestone for us and is a huge improvement in terms of both product and engineering. This would not have been possible without the dedication of the NUSMods core team and hard work they have put in over the past year. Moving forward, NUSMods will be led by [a new generation](https://nusmods.com/team) of student developers from School of Computing - [Li Kai](https://github.com/li-kai), [Zhang Yi Jiang](https://github.com/zhangyijiang) and [E-Liang Tan](https://github.com/taneliang). There is still a ton of work left to be done, such as further improving the performance and writing more tests. Do reach out to them if you are interested in contributing to or collaborating on the project.
+[NUSMods R](https://nusmods.com) marks a major milestone for us and is a huge improvement in terms of both product and engineering. This would not have been possible without the dedication of the NUSMods core team and hard work they have put in over the past year. Moving forward, NUSMods will be led by [a new generation](https://nusmods.com/team) of student developers from School of Computing - [Li Kai](https://github.com/li-kai), [Zhang Yi Jiang](https://github.com/zhangyijiang) and [E-Liang Tan](https://github.com/taneliang). This journey is 1% finished and there is still a ton of work left to be done, such as further improving the performance and writing more tests. This journey is 1% finished. Do reach out to us if you are interested in contributing to or collaborating on the project.
 
 With this release, we hope that students of NUS enjoy using NUSMods more than ever and also hope to inspire budding developers with our engineering culture and practices!
 
