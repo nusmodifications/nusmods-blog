@@ -27,6 +27,8 @@ The new version brings about some much needed enhancements such as multi-platfor
 - Supports both horizontal and vertical orientation
 - Customizable module colors
 - Hiding of modules from the timetable
+- Use <kbd>Z</kbd> and <kbd>C</kbd> keys to cycle through the timetable themes
+- Use <kbd>X</kbd> key to toggle Dark Mode
 
 *Many thanks to [Yangshun Tay](https://github.com/yangshun), [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai), [Ng Zhi An](https://github.com/ngzhian) and [E-Liang Tan](https://github.com/taneliang) for their work on the timetable.*
 
