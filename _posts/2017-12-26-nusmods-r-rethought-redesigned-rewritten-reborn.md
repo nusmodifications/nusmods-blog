@@ -12,7 +12,7 @@ excerpt: >
 
 Today we are very excited to be releasing a new version of NUSMods for everyone to use. This release is NUSMods' third version since the project was originally started in 2012 by [Beng](https://github.com/ahbeng), founder and creator of NUSMods. NUSMods R has been in development for over a year and will finally be available for use thanks to the hard work of a team of young and talented developers from School of Computing. The NUSMods core team has put in a tremendous amount of time and effort over the past year during both semester period and holidays to make this possible. Many thanks to the people involved in the development of NUSMods R - [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai), [E-Liang Tan](https://github.com/taneliang), [Ng Zhi An](https://github.com/ngzhian), and [Yangshun Tay](https://github.com/yangshun).
 
-The new version brings about some much needed enhancements such as multi-platform compatibility, performance improvements, increased customizability, and solves many of the pain points of the previous version. We redesigned the user interface, rethought the user experience, rewrote the entire code base and removed a number of features that were not commonly used among students so that your usage experience will be greatly enhanced. Here are some of the highlights in the new release:
+The new version brings about some much needed enhancements such as multi-platform compatibility, performance improvements, increased customizability, and solves many of the pain points of the previous version. We redesigned the user interface, rethought the user experience, rewrote the entire code base and removed a number of features that were not commonly used among students so that your usage experience will be greatly enhanced. We have plenty of other things to ship, but done is better than perfect; we can't wait to put the new release in your hands. Here are some of the highlights in the new release:
 
 ## Timetable Overhaul
 
@@ -29,6 +29,8 @@ The new version brings about some much needed enhancements such as multi-platfor
 - Hiding of modules from the timetable
 - Use <kbd>Z</kbd> and <kbd>C</kbd> keys to cycle through the timetable themes
 - Use <kbd>X</kbd> key to toggle Dark Mode
+
+![NUSMods Desktop Dark Mode Screenshot](/img/nusmods-r/timetable-desktop-dark.png)
 
 *Many thanks to [Yangshun Tay](https://github.com/yangshun), [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai), [Ng Zhi An](https://github.com/ngzhian) and [E-Liang Tan](https://github.com/taneliang) for their work on the timetable.*
 
@@ -63,11 +65,12 @@ The new version brings about some much needed enhancements such as multi-platfor
 ## NUSMods R By the Numbers
 
 - [**9 contributors**](https://github.com/nusmodifications/nusmods/graphs/contributors?from=2016-08-22&to=2017-12-23&type=c) to the code
-- **386** commits made
-- **113049** lines of code added. **43097** lines of code removed
+- **404** commits made
+- **116285** lines of code added. **44606** lines of code removed
 - **393216** ways to customize your timetable (assuming a normal workload of 5 modules)
 - Initial load time of **885ms**
 - Bundle size of **605 KB** (after Gzip)
+- Test coverage of **44.54%** (We know it needs improvement, we're working on it. [Help is welcome!](https://github.com/nusmodifications/nusmods/tree/master/v3))
 
 We've already heard from many voices about NUSMods R while it was in beta, and here's what they have to say:
 
@@ -99,4 +102,4 @@ Over the period of a year from Jul 2016 to Jul 2017, NUSMods saw over 2.5 millio
 
 With this release, we hope that students of NUS enjoy using NUSMods more than ever and also hope to inspire budding developers with our engineering culture and practices!
 
-*If you are interested in knowing more details regarding the engineering behind NUSMods R, check out [this post](/nusmods-r-the-engineering-behind).*
+*If you are interested in knowing more regarding the engineering behind NUSMods R, check out [this post](/nusmods-r-the-engineering-behind).*
