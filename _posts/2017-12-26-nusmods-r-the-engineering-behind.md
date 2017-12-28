@@ -155,29 +155,33 @@ We're pretty happy with the tech stack we have chosen and strongly believe that 
 - **393216** ways to customize your timetable (assuming a normal workload of 5 modules)
 - Initial load time of **885ms**
 - Bundle size of **605 KB** (after Gzip)
-- Test coverage of **44.54%** (We know it needs improvement, we're working on it. [Help is welcome!](https://github.com/nusmodifications/nusmods/tree/master/v3))
+- Test coverage of **44.54%** (We know it needs improvement, we're working on it. [Help is welcome!](https://github.com/nusmodifications/nusmods/tree/master/www))
 
 We've already heard from many voices about NUSMods R while it was in beta, and here’s what they have to say:
 
 > **Get your school life in order with NUSMods R**
 >
-> *- Ng Zhi An, Software Engineer at Google*
+> *- Ng Zhi An, Software Engineer, Google*
 
 > **The only working planner**
 >
-> *- Yeo Quan Yang, Security Engineer at Apple*
-
-> **Not all heroes wear capes**
->
-> *- Yangshun Tay, Front End Engineer at Facebook*
-
-> **Best in class in a monopoly market 🌝**
->
-> *- Karen Ang, Ex-Software Engineering Intern at Google*
+> *- Yeo Quan Yang, Security Engineer, Apple*
 
 > **NUSMods helped me find a girlfriend**
 >
-> *- Soon Chun Mun, Software Engineer at Google*
+> *- Soon Chun Mun, Software Engineer, Google*
+
+> **Not all heroes wear capes**
+>
+> *- Yangshun Tay, Front End Engineer, Facebook*
+
+> **Best in class in a monopoly market 🌝**
+>
+> *- Karen Ang, Ex-Software Engineering Intern, Google*
+
+> **NUSMods made me get stalked by random NUSWhispers commenters**
+>
+> *- Ang Yen Ling, Poster Girl, NUSMods*
 
 ## To Infinity and Beyond
 
