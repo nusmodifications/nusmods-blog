@@ -4,7 +4,7 @@ title:  NUSMods R - Rethought, Redesigned, Rewritten, Reborn
 date:   2017-12-26 00:00:00
 author: Yangshun Tay
 author_github: yangshun
-author_thumbnail: 558978353
+author_thumbnail: 66eca275a85a6a0c06b0a0f7039b074b
 excerpt: >
   Today we are very excited to be releasing a new version of NUSMods for everyone to use. This release is NUSMods' third version since the project was originally started in 2012 by Beng, founder and creator of NUSMods. NUSMods R has been in development for over a year and will finally be available for use thanks to the hard work of a team of young and talented developers from School of Computing.
 
