@@ -4,7 +4,7 @@ title:  "Tips For Freshmen By NUSWhispers"
 date:   2016-07-31 17:20:00
 author: Nicholette Li
 author_github: nicholette
-author_thumbnail: 610496971
+author_thumbnail: ae15307fa1cd2a3cf124a1bac3b062ab
 excerpt: >
   Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls on NUSWhispers have emerged to share their tips and experiences with incoming freshmen who missed their opportunity to seek advice from their seniors. The admins of NUSWhispers have decided to collate them into a single post for easier reading, along with some nuggets of wisdom from their many years of experience in school.
 ---
