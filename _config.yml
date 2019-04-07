@@ -1,8 +1,7 @@
 # Site settings
 title: NUSMods Blog
 email: nusmods@googlegroups.com
-description: >
-  At NUSMods, we build cool stuff. Here's where we write about them.
+description: At NUSMods, we build cool stuff. Here's where we write about them.
 url: http://blog.nusmods.com # the base hostname & protocol for your site
 facebook_username: nusmods
 twitter_username: nusmods
