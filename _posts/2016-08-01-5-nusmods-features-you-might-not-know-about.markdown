@@ -4,7 +4,7 @@ title:  "5 NUSMods Features You Might Not Know About"
 date:   2016-07-31 14:59:26
 author: Yangshun Tay
 author_github: yangshun
-author_thumbnail: 558978353
+author_thumbnail: 66eca275a85a6a0c06b0a0f7039b074b
 excerpt: >
   NUSMods has been an incredibly useful platform for NUS students, providing a user-friendly interface for planning their timetables and searching through the available modules. However, it does more than just that! Here are some of the lesser known features in NUSMods that can make you even more productive!
 ---
