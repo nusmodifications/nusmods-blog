@@ -18,7 +18,7 @@ We have some exciting news. Over the past semester, the NUSMods team has been wo
 1. Module and timetable information will be more accurate and reliable. NUSMods will sync with NUS internal data sources daily, ensuring what you see is always up to date.
 1. Modules now contain more information such as whether they are S/U-able, SkillsFuture funded, lab-based or independent-study modules.
 1. Data for the whole academic year will now be available at the start of the academic year. You can now plan your timetable for the whole year before school even starts!
-1. NUS RO and NUS faculty websites will link to NUSMods. NUSMods will serve to be NUS's module search and catalog.
+1. NUS RO and NUS faculty websites will link to NUSMods. NUSMods will serve as the course catalogue, module search and timetable builder for NUS.
 1. Removal of CORS bidding data. As CORS will be replaced by ModReg starting in AY18/19 Special Term I, we have removed historical CORS bidding data as they will no longer be relevant.
 1. (Only relevant for developers): The new data has required us to transition to a new API available at <https://api.nusmods.com/v2/>. This API contains almost all the data that we get from NUS, please check it out!
 
