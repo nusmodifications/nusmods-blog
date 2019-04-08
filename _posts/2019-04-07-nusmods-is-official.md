@@ -9,8 +9,6 @@ excerpt: >
   We have some exciting news. Over the past semester, the NUSMods team has been working with the NUS Registrar's Office (RO) and NUS Information Technology (NUSIT) to move from public data sources like CORS and IVLE to internal data sources. NUSMods' data is now more accurate than ever before!
 ---
 
-# NUSMods is Official!
-
 We have some exciting news. Over the past semester, the NUSMods team has been working with the NUS Registrar's Office (RO) and NUS Information Technology (NUSIT) to move from public data sources like CORS and IVLE to internal data sources. NUSMods' data is now more accurate than ever before!
 
 ## What this means for you
