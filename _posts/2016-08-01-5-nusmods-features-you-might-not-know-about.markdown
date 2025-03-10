@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "5 NUSMods Features You Might Not Know About"
-date:   2016-07-31 14:59:26
+title: "5 NUSMods Features You Might Not Know About"
+date: 2016-07-31 14:59:26
 author: Yangshun Tay
 author_github: yangshun
+author_org: GreatFrontEnd
+author_org_url: https://www.greatfrontend.com
 author_thumbnail: 66eca275a85a6a0c06b0a0f7039b074b
 excerpt: >
   NUSMods has been an incredibly useful platform for NUS students, providing a user-friendly interface for planning their timetables and searching through the available modules. However, it does more than just that! Here are some of the lesser known features in NUSMods that can make you even more productive!
@@ -13,7 +15,7 @@ NUSMods has been an incredibly useful platform for NUS students, providing a use
 
 ## Lesson Theme Colors and Dark Mode
 
-One of the most popular features of NUSMods is the colorful timetable lesson slots, as it gives colour to one's school life (literally). Do you know that there are a grand total of 32 different color themes for these lesson slots? They can be accessed via the [**Preferences**](https://nusmods.com/preferences) page or simply pressing the <kbd>←</kbd> and <kbd>→</kbd> arrow keys to switch between themes. My personal favourites are the *Mocha*, *Monokai* and *Ocean* themes. There is even an [NUSWhispers](https://nuswhispers.com) theme if you can't get enough of it (;
+One of the most popular features of NUSMods is the colorful timetable lesson slots, as it gives colour to one's school life (literally). Do you know that there are a grand total of 32 different color themes for these lesson slots? They can be accessed via the [**Preferences**](https://nusmods.com/preferences) page or simply pressing the <kbd>←</kbd> and <kbd>→</kbd> arrow keys to switch between themes. My personal favourites are the _Mocha_, _Monokai_ and _Ocean_ themes. There is even an [NUSWhispers](https://nuswhispers.com) theme if you can't get enough of it (;
 
 Additionally, **Dark mode** is also available and can be activated by pressing <kbd>X</kbd>. We find that dark mode is easier on the eyes and can be a little more battery-saving. Check it out!
 

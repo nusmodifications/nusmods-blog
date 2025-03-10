@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tips For Freshmen By NUSWhispers"
-date:   2016-07-31 17:20:00
+title: "Tips For Freshmen By NUSWhispers"
+date: 2016-07-31 17:20:00
 author: Nicholette Li
 author_github: nicholette
 author_thumbnail: ae15307fa1cd2a3cf124a1bac3b062ab
@@ -36,7 +36,6 @@ Due to the unfortunate suspension of Freshman Orientation Week camps, kind souls
 - If a module seems too pricey for you, try bidding for it in Sem 2, chances are it's not as oversubscribed. [Hazel Cxe]
 
 - For those thinking of changing courses, do not hesitate and do it early. Having good grades and recommendation from a Prof would help in your appeal. There is a cutoff deadline for switching courses and it's around recess week. [Tay Yang Shun]
-
 
 ## Study Tips
 
@@ -74,6 +73,7 @@ Here&#039;s a few handy tips for surviving in NUS:
 - If you don't wish to splash out money on a new textbook, search the used textbook forum in IVLE or just use the RBR copy. [Han Ming Guang]
 
 - Here is how you get access of textbooks legally without spending extra money:
+
 1. Go to NUS library website (google "NUS library").
 2. Type in the name of the book and Authors on the search bar.
 3. If you found the book and it the word "available online", then congratulations, free book! If not, then too bad. But it should work for most textbooks though. [Goh Koon Tong]
@@ -114,13 +114,11 @@ Here&#039;s a few handy tips for surviving in NUS:
 
 - Another useful tips for new undergraduates when it is raining: Look for yellow ceiling! Yellow ceiling means that it is connected to other buildings via shelter (may not work for new buildings). [Goh Koon Tong]
 
-
 ## Library
 
 - Send printing jobs from your laptop to the library's network printer! Skip the queue for computers and go straight to the Print Release Station <http://libfaq.nus.edu.sg/faq/71273>. [[NUSWhispers #22964](https://www.nuswhispers.com/confession/22964)]
 
 - Loan period for library books are 2 weeks, and the fines are 50 cents per day for overdue books. You can extend loan period by 2 weeks, thrice. But the 2 weeks start from the day you renew the loan, not from the end of the original 2 weeks. [Ho Chun Leong]
-
 
 ## Food
 
@@ -133,7 +131,6 @@ Here&#039;s a few handy tips for surviving in NUS:
 - Sarpino has 50% on eatigo ([eatigo](http://eatigo.com/): best app on earth). [[NUSWhispers #23153](https://www.nuswhispers.com/confession/23153)]
 
 - McDonalds in NUS is cheaper than outside! :O [Nicholette]
-
 
 ## Cool Stuff!
 
@@ -152,4 +149,3 @@ Here&#039;s a few handy tips for surviving in NUS:
 - If you’re a SoC student, you have free printing quotas and free lockers for semester use (check with Comp Club for more info about lockers) [Nicholette]
 
 - Sitting at the bar seats along the windows of the Med Block Starbucks still give you access to the school much stronger wifi over Starbucks’ spotty wifi. [[NUSWhispers #22833](https://www.nuswhispers.com/confession/22833)]
-

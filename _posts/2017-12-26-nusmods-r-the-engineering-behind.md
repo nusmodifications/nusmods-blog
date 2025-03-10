@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  NUSMods R - The Engineering Behind
-date:   2017-12-26 00:00:00
+title: NUSMods R - The Engineering Behind
+date: 2017-12-26 00:00:00
 author: Yangshun Tay
 author_github: yangshun
+author_org: GreatFrontEnd
+author_org_url: https://www.greatfrontend.com
 author_thumbnail: 66eca275a85a6a0c06b0a0f7039b074b
 excerpt: >
   Today we are very excited to be releasing a new version of NUSMods for everyone to use. This release is NUSMods' third version since the project was originally started in 2012 by Beng, founder and creator of NUSMods. NUSMods R has been in development for over a year and will finally be available for use thanks to the hard work of a team of young and talented developers from School of Computing.
-
 ---
 
 Over the period of a year from Jul 2016 to Jul 2017, NUSMods saw over 2.5 million sessions, over 250,000 users (including returning users) and over 9 million pageviews, peaking at the start of semesters. Freshmen often have difficulty understanding the module and bidding system but with NUSMods the process is made much smoother. Many seniors recommend freshmen to use NUSMods to plan their modules. Even exchange students use NUSMods and they often exclaim that they wished they had such a platform back in their own university. The immense popularity and usefulness of NUSMods and the impact that NUSMods has on the school population drives us to keep innovating and making NUSMods better. Another goal of NUSMods is to provide a platform to encourage students to experiment and create original community-engaging work via the [NUSMods API](https://github.com/nusmodifications/nusmods-api).
@@ -34,7 +35,7 @@ Lastly, we now let you customize the colors of the lessons on the timetable. No 
 
 ![NUSMods Desktop Dark Mode Screenshot](/img/nusmods-r/timetable-desktop-dark.png)
 
-*Many thanks to [Yangshun Tay](https://github.com/yangshun), [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai), [Ng Zhi An](https://github.com/ngzhian) and [E-Liang Tan](https://github.com/taneliang) for their work on the timetable.*
+_Many thanks to [Yangshun Tay](https://github.com/yangshun), [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai), [Ng Zhi An](https://github.com/ngzhian) and [E-Liang Tan](https://github.com/taneliang) for their work on the timetable._
 
 ## Module Finder and Module Pages
 
@@ -44,7 +45,7 @@ The module finder has been one of the unique selling points of NUSMods. We allow
 
 On the module page, Li Kai rewrote the module Prequisite Tree section with a custom implementation we thus removed the need for D3, a large charting library, shaving off over 100kb in payload size sent to clients. Yi Jiang put the whole page together and redesigned the CORS Bidding Statistics section such that the data was grouped by rounds and faculty, making it easier to read.
 
-*Many thanks to [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai) and [Ng Zhi An](https://github.com/ngzhian) for their work on the Module pages.*
+_Many thanks to [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai) and [Ng Zhi An](https://github.com/ngzhian) for their work on the Module pages._
 
 ## Venues
 
@@ -54,7 +55,7 @@ The venues feature is one of my favourite features in NUSMods and probably one o
 
 Yi Jiang also ported the venue availability feature, so that you can find unoccupied venues to crash during your long breaks between lessons.
 
-*Many thanks to [E-Liang Tan](https://github.com/taneliang) and [Zhang Yi Jiang](https://github.com/zhangyijiang) for their work on the Venues pages.*
+_Many thanks to [E-Liang Tan](https://github.com/taneliang) and [Zhang Yi Jiang](https://github.com/zhangyijiang) for their work on the Venues pages._
 
 ## Performance and Infrastructure
 
@@ -68,7 +69,7 @@ While developing, we encountered some performance issues with our development to
 
 Li Kai extracted the best parts of [create-react-app](https://github.com/facebookincubator/create-react-app) webpack's configurations and integrated it into our webpack configurations. He also integrated [Netlify](https://www.netlify.com/) so that every pull request is automatically deployed for previewing. This allows pull request reviewers to test the changes online without having to patch and test locally.
 
-*Many thanks to [Li Kai](https://github.com/li-kai) and [Yangshun Tay](https://github.com/yangshun) for their work on the performance and infrastructure aspects of NUSMods R.*
+_Many thanks to [Li Kai](https://github.com/li-kai) and [Yangshun Tay](https://github.com/yangshun) for their work on the performance and infrastructure aspects of NUSMods R._
 
 ## Better Engineering
 
@@ -161,27 +162,27 @@ We've already heard from many voices about NUSMods R while it was in beta, and h
 
 > **Get your school life in order with NUSMods R**
 >
-> *- Ng Zhi An, Software Engineer, Google*
+> _- Ng Zhi An, Software Engineer, Google_
 
 > **The only working planner**
 >
-> *- Yeo Quan Yang, Security Engineer, Apple*
+> _- Yeo Quan Yang, Security Engineer, Apple_
 
 > **NUSMods helped me find a girlfriend**
 >
-> *- Soon Chun Mun, Software Engineer, Google*
+> _- Soon Chun Mun, Software Engineer, Google_
 
 > **Not all heroes wear capes**
 >
-> *- Yangshun Tay, Front End Engineer, Facebook*
+> _- Yangshun Tay, Front End Engineer, Facebook_
 
 > **Best in class in a monopoly market 🌝**
 >
-> *- Karen Ang, Ex-Software Engineering Intern, Google*
+> _- Karen Ang, Ex-Software Engineering Intern, Google_
 
 > **NUSMods made me get stalked by random NUSWhispers commenters**
 >
-> *- Ang Yen Ling, Poster Girl, NUSMods*
+> _- Ang Yen Ling, Poster Girl, NUSMods_
 
 ## To Infinity and Beyond
 

@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  NUSMods R - Rethought, Redesigned, Rewritten, Reborn
-date:   2017-12-26 00:00:00
+title: NUSMods R - Rethought, Redesigned, Rewritten, Reborn
+date: 2017-12-26 00:00:00
 author: Yangshun Tay
 author_github: yangshun
+author_org: GreatFrontEnd
+author_org_url: https://www.greatfrontend.com
 author_thumbnail: 66eca275a85a6a0c06b0a0f7039b074b
 excerpt: >
   Today we are very excited to be releasing a new version of NUSMods for everyone to use. This release is NUSMods' third version since the project was originally started in 2012 by Beng, founder and creator of NUSMods. NUSMods R has been in development for over a year and will finally be available for use thanks to the hard work of a team of young and talented developers from School of Computing.
-
 ---
 
 Today we are very excited to be releasing a new version of NUSMods for everyone to use. This release is NUSMods' third version since the project was originally started in 2012 by [Beng](https://github.com/ahbeng), founder and creator of NUSMods. NUSMods R has been in development for over a year and will finally be available for use thanks to the hard work of a team of young and talented developers from School of Computing. The NUSMods core team has put in a tremendous amount of time and effort over the past year during both semester period and holidays to make this possible. Many thanks to the people involved in the development of NUSMods R - [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai), [E-Liang Tan](https://github.com/taneliang), [Ng Zhi An](https://github.com/ngzhian), and [Yangshun Tay](https://github.com/yangshun).
@@ -32,7 +33,7 @@ The new version brings about some much needed enhancements such as multi-platfor
 
 ![NUSMods Desktop Dark Mode Screenshot](/img/nusmods-r/timetable-desktop-dark.png)
 
-*Many thanks to [Yangshun Tay](https://github.com/yangshun), [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai), [Ng Zhi An](https://github.com/ngzhian) and [E-Liang Tan](https://github.com/taneliang) for their work on the timetable.*
+_Many thanks to [Yangshun Tay](https://github.com/yangshun), [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai), [Ng Zhi An](https://github.com/ngzhian) and [E-Liang Tan](https://github.com/taneliang) for their work on the timetable._
 
 ## Module Finder and Module Pages
 
@@ -42,7 +43,7 @@ The new version brings about some much needed enhancements such as multi-platfor
 - Search modules by title and description text
 - Mobile friendly module finder and module pages
 
-*Many thanks to [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai) and [Ng Zhi An](https://github.com/ngzhian) for their work on the Module pages.*
+_Many thanks to [Zhang Yi Jiang](https://github.com/zhangyijiang), [Li Kai](https://github.com/li-kai) and [Ng Zhi An](https://github.com/ngzhian) for their work on the Module pages._
 
 ## Venues
 
@@ -51,7 +52,7 @@ The new version brings about some much needed enhancements such as multi-platfor
 - Colorful venue timetables
 - Instant filtering of venues by name and availability
 
-*Many thanks to [E-Liang Tan](https://github.com/taneliang) and [Zhang Yi Jiang](https://github.com/zhangyijiang) for their work on the Venues pages.*
+_Many thanks to [E-Liang Tan](https://github.com/taneliang) and [Zhang Yi Jiang](https://github.com/zhangyijiang) for their work on the Venues pages._
 
 ## Performance and Infrastructure
 
@@ -60,7 +61,7 @@ The new version brings about some much needed enhancements such as multi-platfor
 - Reduced loading time and payload by half
 - Time to interactive greatly improved
 
-*Many thanks to [Li Kai](https://github.com/li-kai) and [Yangshun Tay](https://github.com/yangshun) for their work on the performance and infrastructure aspects of NUSMods R.*
+_Many thanks to [Li Kai](https://github.com/li-kai) and [Yangshun Tay](https://github.com/yangshun) for their work on the performance and infrastructure aspects of NUSMods R._
 
 ## NUSMods R By the Numbers
 
@@ -76,27 +77,27 @@ We've already heard from many voices about NUSMods R while it was in beta, and h
 
 > **Get your school life in order with NUSMods R**
 >
-> *- Ng Zhi An, Software Engineer, Google*
+> _- Ng Zhi An, Software Engineer, Google_
 
 > **The only working planner**
 >
-> *- Yeo Quan Yang, Security Engineer, Apple*
+> _- Yeo Quan Yang, Security Engineer, Apple_
 
 > **NUSMods helped me find a girlfriend**
 >
-> *- Soon Chun Mun, Software Engineer, Google*
+> _- Soon Chun Mun, Software Engineer, Google_
 
 > **Not all heroes wear capes**
 >
-> *- Yangshun Tay, Front End Engineer, Facebook*
+> _- Yangshun Tay, Front End Engineer, Facebook_
 
 > **Best in class in a monopoly market 🌝**
 >
-> *- Karen Ang, Ex-Software Engineering Intern, Google*
+> _- Karen Ang, Ex-Software Engineering Intern, Google_
 
 > **NUSMods made me get stalked by random NUSWhispers commenters**
 >
-> *- Ang Yen Ling, Poster Girl, NUSMods*
+> _- Ang Yen Ling, Poster Girl, NUSMods_
 
 ## To Infinity and Beyond
 
@@ -106,4 +107,4 @@ Over the period of a year from Jul 2016 to Jul 2017, NUSMods saw over 2.5 millio
 
 With this release, we hope that students of NUS enjoy using NUSMods more than ever and also hope to inspire budding developers with our engineering culture and practices!
 
-*If you are interested in knowing more regarding the engineering behind NUSMods R, check out [this post](/nusmods-r-the-engineering-behind).*
+_If you are interested in knowing more regarding the engineering behind NUSMods R, check out [this post](/nusmods-r-the-engineering-behind)._

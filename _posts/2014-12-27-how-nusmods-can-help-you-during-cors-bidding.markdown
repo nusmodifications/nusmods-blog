@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How NUSMods Can Help You During CORS Bidding"
-date:   2014-12-30 02:14:26
+title: "How NUSMods Can Help You During CORS Bidding"
+date: 2014-12-30 02:14:26
 author: Ang Yen Ling
 author_thumbnail: 630fe6848c11082312b57b1360a0dd09
 excerpt: >
@@ -16,14 +16,13 @@ Simply click on **Modules** in the navigation menu on the left to access the Mod
 
 ![Click on "Modules"](/img/cors/cors-1.png)
 
-For instance, to obtain a list of GEM modules offered in Semester 2, check the checkboxes for **Semester 2** under *Semesters* and **GEM** under *Types*. A filtered list of GEM modules offered in Semester 2 will then be presented on the right of the page. This makes module discovery really easy and convenient!
+For instance, to obtain a list of GEM modules offered in Semester 2, check the checkboxes for **Semester 2** under _Semesters_ and **GEM** under _Types_. A filtered list of GEM modules offered in Semester 2 will then be presented on the right of the page. This makes module discovery really easy and convenient!
 
 ![Filter modules](/img/cors/cors-2.png)
 
 <br>
 
-Filtered CORS Bidding History
---
+## Filtered CORS Bidding History
 
 On a module page, detailed information about the module is shown, such as the pre-requisites tree, module reviews, CORS bidding history and module timetable. To view the CORS bidding history for that particular module, click the **CORS Bidding History** tab on the right.
 

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "The Story of NUSWhispers"
-date:   2015-09-08 10:01:26
+title: "The Story of NUSWhispers"
+date: 2015-09-08 10:01:26
 author: Yangshun Tay
 author_github: yangshun
+author_org: GreatFrontEnd
+author_org_url: https://www.greatfrontend.com
 author_thumbnail: 66eca275a85a6a0c06b0a0f7039b074b
 excerpt: >
   The confessions wave took the whole Singapore by storm in 2012, and confessions pages were created for organizations on Facebook, so that people could share their darkest secrets and gossips in an anonymous fashion. In 2013, NUS Confessions was launched. It was an instant hit among students, reaching 30,000 likes over the span of a year. However, since the founders of NUS Confessions have graduated, the platform was left unmaintained. We saw the opportunity to build a better version of a confessions site for NUS, and build a platform that is tailored for anonymous sharing of opinions and stories. Thus, NUSWhispers was born.
@@ -11,7 +13,7 @@ excerpt: >
 
 The confessions wave took the whole Singapore by storm in 2012, and confessions pages were created for organizations on Facebook, so that people could share their darkest secrets and gossips in an anonymous fashion. In 2013, NUS Confessions was launched. It was an instant hit among students, reaching 30,000 likes over the span of a year. However, since the founders of NUS Confessions have graduated, the platform was left unmaintained. We saw the opportunity to build a better version of a confessions site for NUS, and build a platform that is tailored for anonymous sharing of opinions and stories. Thus, NUSWhispers was born.
 
-Why did we choose the name *NUSWhispers*? Whispers is defined as speaking very softly using one's breath rather than one's throat, especially for the sake of secrecy; it is a subtle and mysterious way of sharing information that you don’t want everyone to know. We felt that it suitably captured the essence of the platform. Hence, NUSWhispers was chosen as the name for this reboot of a confessions app for NUS.
+Why did we choose the name _NUSWhispers_? Whispers is defined as speaking very softly using one's breath rather than one's throat, especially for the sake of secrecy; it is a subtle and mysterious way of sharing information that you don’t want everyone to know. We felt that it suitably captured the essence of the platform. Hence, NUSWhispers was chosen as the name for this reboot of a confessions app for NUS.
 
 NUSWhispers aimed to tackle the problems faced by NUS Confessions:
 
